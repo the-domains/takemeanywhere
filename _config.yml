@@ -1,4 +1,3 @@
-layout_spectrum: 0.007514697499573231
 typography_spectrum: 0.47789690294303
 color:
   brandStrength: 0.35902763926424086
@@ -11,5 +10,7 @@ color:
     - '#A8AD80'
     - '#E6D4A7'
     - '#825534'
+layout_spectrum: 0.007514697499573231
 name: TakeMeAnywhere
 title: TakeMeAnywhere
+description: Travel. Our Planet. Our Responsibility.
